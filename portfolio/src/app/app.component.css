@@ -689,63 +689,40 @@ h6 {
 
 /*Icons - Programming Languages & Frameworks */
 
-#skills .container .div-card .mongodb {
-  background-image: url("../img/icon/mongodb.png");
-}
+
 #skills .container .div-card .node-js {
-  background-image: url("../img/icon/node-js.png");
-}
-#skills .container .div-card .express-js {
-  background-image: url("../img/icon/express-js.png");
+  background-image: url("/portfolio/public/img/icon/node-js.png");
 }
 #skills .container .div-card .html {
-  background-image: url("../img/icon/html-5.png");
+  background-image: url("/portfolio/public/img/icon/html-5.png");
 }
 #skills .container .div-card .css {
-  background-image: url("../img/icon/css-3.png");
-}
-#skills .container .div-card .js {
-  background-image: url("../img/icon/js.png");
-}
-#skills .container .div-card .python {
-  background-image: url("../img/icon/python.png");
-}
-#skills .container .div-card .next-js {
-  background-image: url("../img/icon/next-js.png");
+  background-image: url("/portfolio/public/img/icon/css-3.png");
 }
 #skills .container .div-card .typescript {
-  background-image: url("../img/icon/typescript.png");
+  background-image: url("/portfolio/public/img/icon/typescript.png");
 }
 #skills .container .div-card .react-js {
-  background-image: url("../img/icon/react-js.png");
+  background-image: url("/portfolio/public/img/icon/react-js.png");
 }
 
 /*Icons - Tools & Other Skills */
 
 #skills .container .div-card .git {
-  background-image: url("../img/icon/git.png");
-}
-#skills .container .div-card .ux-ui {
-  background-image: url("../img/icon/ui-ux.png");
+  background-image: url("/portfolio/public/img/icon/git.png");
 }
 #skills .container .div-card .docker {
-  background-image: url("../img/icon/docker.png");
+  background-image: url("/portfolio/public/img/icon/docker.png");
 }
-#skills .container .div-card .devops {
-  background-image: url("../img/icon/devops.png");
-}
+
 
 /*Icons - Languages */
 
-#skills .container .div-card .sinhala {
-  background-image: url("../img/icon/lang-si.png");
-}
+
 #skills .container .div-card .english {
-  background-image: url("../img/icon/lang-en.png");
+  background-image: url("/portfolio/public/img/icon/lang-en.png");
 }
-#skills .container .div-card .tamil {
-  background-image: url("../img/icon/lang-ta.png");
-}
+
 
 .card-buttons {
   display: flex;
